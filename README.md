@@ -1,7 +1,4 @@
-# Airbnb-stock-time-series-prediction
-Time Series - Forecasting - Airbnb - Stock - Price 
-Problem Type : Forecasting
-Actionable Decision: Whether to invest or not in the stock
+
 
 
 Airbnb Stock Price Prediction
