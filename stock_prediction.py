@@ -12,8 +12,8 @@ import json
 
 # App title
 
-('''# Stock Prediction Price App
-Shown are the stock price data for query companies!
+('''# Stock Price Prediction App
+Shown are the stock price data for different companies!
 
 
 - App built by AMINA TAHIR BALARABE
