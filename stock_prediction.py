@@ -12,7 +12,7 @@ import json
 
 # App title
 
-('''# Stock Price Prediction App
+('''# Stock  Price Prediction App
 Shown are the stock price data for different companies!
 
 
